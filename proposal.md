@@ -5,7 +5,7 @@
 #### Team Name: `Life Tapp`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Leveraging NFC sharing to ensure an efficient hand off of medical information to first responders.`
+##### `Utilizing NFC technology to ensure an improved, cost-efficient, and effective hand off of medical information to medical responders through patients’ personal insurance companies. .`
 
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/team407/blob/main/images/Screen%20Shot%202022-10-08%20at%203.37.49%20PM.png)
