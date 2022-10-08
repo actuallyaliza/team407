@@ -5,7 +5,7 @@
 #### Team Name: `The Avengers`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Transfering crucial health information through proximity sharing`
+##### `Transfering crucial health information through NFC sharing`
 
 
 #### A visual
@@ -26,6 +26,6 @@
 - [X] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: ethannjones-git
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
