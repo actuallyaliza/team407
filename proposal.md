@@ -5,7 +5,7 @@
 #### Team Name: `Life Tapp`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Transfering crucial health information through NFC sharing`
+##### `Leveraging NFC sharing to ensure an efficient hand off of medical information to first responders.`
 
 
 #### A visual
