@@ -28,4 +28,4 @@
 
 #### Team Coordinator GitHub Username: ethannjones-git
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `Ethan//@ethannjones-git, Aliza//@actuallyaliza, `
